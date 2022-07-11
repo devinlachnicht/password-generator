@@ -55,8 +55,8 @@ Edits made to JS file
 ```
 
 ## Screenshots
-![](assets/images/pass-gen-initial.jpg)
-![](assets/images/pass-gen-after.jpg)
+![](images/pass-gen-initial.jpg)
+![](images/pass-gen-after.jpg)
 
 ## Links
 <a href="https://devinlachnicht.github.io/password-generator/" target="_blank">Deployed Application</a>
